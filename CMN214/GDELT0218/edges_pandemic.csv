@@ -1,0 +1,1002 @@
+Source,Target,Type,Weight
+China,United Kingdom,Undirected,0.08829
+China,Japan,Undirected,0.079827
+China,South Korea,Undirected,0.069558
+China,Thailand,Undirected,0.062744
+China,Germany,Undirected,0.060283
+China,Hong Kong,Undirected,0.057527
+China,Malaysia,Undirected,0.0506
+China,Italy,Undirected,0.03568
+China,Indonesia,Undirected,0.034244
+China,Vietnam,Undirected,0.025296
+China,United States,Undirected,0.025089
+China,Russia,Undirected,0.016032
+China,Philippines,Undirected,0.015696
+China,India,Undirected,0.013943
+China,Kazakhstan,Undirected,0.011789
+China,France,Undirected,0.010409
+China,Senegal,Undirected,0.00809
+China,Singapore,Undirected,0.00736
+Japan,United Kingdom,Undirected,0.006618
+China,Taiwan,Undirected,0.006495
+Cambodia,China,Undirected,0.00605
+Australia,China,Undirected,0.005458
+China,Macau,Undirected,0.005447
+Germany,Japan,Undirected,0.005438
+China,Pakistan,Undirected,0.004738
+Thailand,United Kingdom,Undirected,0.00469
+China,Spain,Undirected,0.004654
+South Korea,United Kingdom,Undirected,0.004516
+Japan,South Korea,Undirected,0.004492
+France,United Kingdom,Undirected,0.004355
+Germany,Hong Kong,Undirected,0.004257
+China,Nepal,Undirected,0.004231
+South Korea,Thailand,Undirected,0.004185
+Japan,Thailand,Undirected,0.004142
+Hong Kong,Japan,Undirected,0.004044
+Hong Kong,United Kingdom,Undirected,0.003985
+Germany,United Kingdom,Undirected,0.003978
+Brunei,China,Undirected,0.003955
+Myanmar,China,Undirected,0.00395
+Bolivia,China,Undirected,0.003916
+Japan,United States,Undirected,0.003773
+Hong Kong,South Korea,Undirected,0.00364
+South Korea,Malaysia,Undirected,0.003555
+China,Egypt,Undirected,0.003415
+Japan,Malaysia,Undirected,0.003368
+Malaysia,United Kingdom,Undirected,0.003362
+Hong Kong,Thailand,Undirected,0.003168
+Germany,Italy,Undirected,0.003136
+Malaysia,Thailand,Undirected,0.003077
+France,Germany,Undirected,0.003013
+Germany,Russia,Undirected,0.002912
+Canada,China,Undirected,0.002807
+Hong Kong,Malaysia,Undirected,0.002729
+China,Switzerland,Undirected,0.002589
+United Kingdom,United States,Undirected,0.002533
+Italy,United Kingdom,Undirected,0.002413
+Indonesia,South Korea,Undirected,0.00236
+Italy,Japan,Undirected,0.002339
+Indonesia,Thailand,Undirected,0.002337
+Italy,South Korea,Undirected,0.002324
+Singapore,United Kingdom,Undirected,0.002168
+Indonesia,Japan,Undirected,0.002151
+Hong Kong,Italy,Undirected,0.002079
+Indonesia,United Kingdom,Undirected,0.002064
+Germany,Thailand,Undirected,0.002017
+Italy,Thailand,Undirected,0.001997
+Egypt,Germany,Undirected,0.001996
+Hong Kong,Indonesia,Undirected,0.001757
+Indonesia,Malaysia,Undirected,0.001745
+South Korea,Vietnam,Undirected,0.001735
+Germany,South Korea,Undirected,0.001688
+Italy,Malaysia,Undirected,0.001672
+Japan,Vietnam,Undirected,0.001601
+United Kingdom,Vietnam,Undirected,0.001599
+Germany,United States,Undirected,0.001577
+Thailand,Vietnam,Undirected,0.00151
+Spain,United Kingdom,Undirected,0.001431
+Japan,Russia,Undirected,0.001326
+Australia,Germany,Undirected,0.001311
+Germany,Switzerland,Undirected,0.001286
+Hong Kong,Vietnam,Undirected,0.00127
+France,Japan,Undirected,0.001258
+Russia,United Kingdom,Undirected,0.001252
+Malaysia,Vietnam,Undirected,0.001249
+Australia,United Kingdom,Undirected,0.001171
+Belgium,China,Undirected,0.001147
+Philippines,United Kingdom,Undirected,0.00113
+Indonesia,Italy,Undirected,0.001119
+Japan,Philippines,Undirected,0.001115
+Germany,Singapore,Undirected,0.00108
+Austria,Germany,Undirected,0.001067
+Germany,Philippines,Undirected,0.001063
+Germany,Spain,Undirected,0.001049
+Hong Kong,United States,Undirected,0.001036
+Hong Kong,Russia,Undirected,0.001027
+Germany,Malaysia,Undirected,0.001019
+Japan,Singapore,Undirected,0.000967
+Austria,China,Undirected,0.000959
+India,United Kingdom,Undirected,0.000937
+South Korea,Philippines,Undirected,0.000936
+China,Guam,Undirected,0.000934
+India,South Korea,Undirected,0.000892
+China,Netherlands,Undirected,0.000888
+Hong Kong,Philippines,Undirected,0.000854
+Philippines,Thailand,Undirected,0.000854
+South Korea,Kazakhstan,Undirected,0.000839
+Italy,Vietnam,Undirected,0.000831
+Indonesia,Vietnam,Undirected,0.00083
+India,Japan,Undirected,0.000828
+Cambodia,United Kingdom,Undirected,0.000828
+South Korea,Russia,Undirected,0.000826
+China,Finland,Undirected,0.000808
+China,Czech Republic,Undirected,0.000806
+China,North Korea,Undirected,0.000785
+India,Thailand,Undirected,0.000762
+China,East Timor,Undirected,0.000756
+Taiwan,United Kingdom,Undirected,0.000745
+China,Ethiopia,Undirected,0.000728
+Germany,Indonesia,Undirected,0.000727
+Italy,Russia,Undirected,0.000725
+Kazakhstan,Thailand,Undirected,0.000723
+Kazakhstan,United Kingdom,Undirected,0.000722
+Germany,Vietnam,Undirected,0.00072
+Cambodia,Japan,Undirected,0.000713
+Russia,United States,Undirected,0.000712
+Hong Kong,India,Undirected,0.000706
+Russia,Ukraine,Undirected,0.000705
+Russia,Thailand,Undirected,0.0007
+Japan,Kazakhstan,Undirected,0.000699
+Canada,United Kingdom,Undirected,0.000687
+Malaysia,Philippines,Undirected,0.000671
+France,United States,Undirected,0.000651
+China,Nigeria,Undirected,0.000642
+China,Sweden,Undirected,0.000641
+India,Malaysia,Undirected,0.000629
+Belgium,Germany,Undirected,0.000627
+France,Hong Kong,Undirected,0.000618
+Hong Kong,Kazakhstan,Undirected,0.000617
+Kazakhstan,Malaysia,Undirected,0.00061
+Egypt,Japan,Undirected,0.000592
+South Korea,Senegal,Undirected,0.000578
+Malaysia,Russia,Undirected,0.000565
+Macau,United Kingdom,Undirected,0.000562
+France,Singapore,Undirected,0.000555
+Finland,Germany,Undirected,0.000555
+China,Mongolia,Undirected,0.000555
+China,South Africa,Undirected,0.000554
+India,Italy,Undirected,0.000546
+Italy,Philippines,Undirected,0.000524
+Cambodia,Germany,Undirected,0.00051
+Argentina,China,Undirected,0.000508
+Japan,Senegal,Undirected,0.000501
+Singapore,United States,Undirected,0.000498
+Senegal,Thailand,Undirected,0.000496
+Senegal,United Kingdom,Undirected,0.000491
+Sri Lanka,China,Undirected,0.000485
+Bangladesh,China,Undirected,0.000481
+Canada,United States,Undirected,0.000478
+China,Iran,Undirected,0.000468
+Japan,Taiwan,Undirected,0.000467
+Switzerland,United Kingdom,Undirected,0.000466
+Italy,United States,Undirected,0.000462
+Australia,Japan,Undirected,0.00046
+South Korea,United States,Undirected,0.000459
+Bulgaria,China,Undirected,0.000456
+Brazil,China,Undirected,0.000455
+Hong Kong,Singapore,Undirected,0.000455
+Indonesia,Philippines,Undirected,0.000447
+Taiwan,United States,Undirected,0.000437
+Japan,Macau,Undirected,0.000436
+France,Italy,Undirected,0.000434
+Indonesia,India,Undirected,0.000431
+France,Russia,Undirected,0.000429
+Malaysia,United States,Undirected,0.000429
+China,New Zealand,Undirected,0.000426
+Malaysia,Senegal,Undirected,0.000425
+Hong Kong,Senegal,Undirected,0.000423
+France,Spain,Undirected,0.000408
+Italy,Kazakhstan,Undirected,0.000405
+Indonesia,Kazakhstan,Undirected,0.000405
+Thailand,United States,Undirected,0.000393
+Nepal,United Kingdom,Undirected,0.000392
+China,Ukraine,Undirected,0.000384
+Indonesia,Russia,Undirected,0.000384
+China,Sudan,Undirected,0.000379
+Canada,Japan,Undirected,0.00037
+India,Vietnam,Undirected,0.000364
+Japan,Spain,Undirected,0.000364
+South Korea,Macau,Undirected,0.000358
+Germany,India,Undirected,0.000351
+Macau,Thailand,Undirected,0.00035
+China,Laos,Undirected,0.000348
+Philippines,Vietnam,Undirected,0.000341
+China,Gambia,Undirected,0.00034
+Spain,United States,Undirected,0.000339
+China,Portugal,Undirected,0.000335
+Singapore,Thailand,Undirected,0.000335
+Germany,Sweden,Undirected,0.000335
+Australia,United States,Undirected,0.000334
+France,Thailand,Undirected,0.000322
+Malaysia,Singapore,Undirected,0.000319
+China,Sierra Leone,Undirected,0.000317
+Kazakhstan,Vietnam,Undirected,0.000305
+China,Israel,Undirected,0.000303
+Cambodia,United States,Undirected,0.000302
+China,Mexico,Undirected,0.000296
+South Korea,Pakistan,Undirected,0.000292
+Hong Kong,Macau,Undirected,0.000289
+Australia,Hong Kong,Undirected,0.000288
+Germany,Mongolia,Undirected,0.000287
+South Korea,Nepal,Undirected,0.000286
+China,Ghana,Undirected,0.000286
+Macau,Malaysia,Undirected,0.000286
+China,Saudi Arabia,Undirected,0.000285
+Indonesia,Senegal,Undirected,0.000284
+South Korea,Singapore,Undirected,0.000284
+Russia,Vietnam,Undirected,0.000284
+Germany,North Korea,Undirected,0.000281
+Bolivia,South Korea,Undirected,0.000281
+Myanmar,South Korea,Undirected,0.00028
+Brunei,South Korea,Undirected,0.00028
+Italy,Senegal,Undirected,0.00027
+France,South Korea,Undirected,0.000269
+Japan,Nepal,Undirected,0.000269
+Egypt,United Kingdom,Undirected,0.000267
+Cambodia,Thailand,Undirected,0.000266
+Japan,Switzerland,Undirected,0.000263
+Pakistan,United Kingdom,Undirected,0.00026
+Japan,Pakistan,Undirected,0.000256
+Nepal,Thailand,Undirected,0.000255
+Hong Kong,Taiwan,Undirected,0.000255
+United Arab Emirates,China,Undirected,0.000252
+China,Madagascar,Undirected,0.000252
+Pakistan,Thailand,Undirected,0.000249
+Myanmar,Thailand,Undirected,0.000246
+Philippines,Russia,Undirected,0.000246
+Brunei,Thailand,Undirected,0.000242
+Myanmar,United Kingdom,Undirected,0.000242
+Australia,France,Undirected,0.000241
+Egypt,United States,Undirected,0.000241
+Bolivia,Thailand,Undirected,0.000241
+Philippines,United States,Undirected,0.000239
+Brunei,United Kingdom,Undirected,0.000239
+Bolivia,United Kingdom,Undirected,0.000238
+Hong Kong,Spain,Undirected,0.000236
+Myanmar,Japan,Undirected,0.000236
+Brunei,Japan,Undirected,0.000233
+Cambodia,Hong Kong,Undirected,0.000233
+Bolivia,Japan,Undirected,0.000233
+Czech Republic,United States,Undirected,0.000233
+Germany,Taiwan,Undirected,0.000225
+Brazil,Germany,Undirected,0.000223
+Hong Kong,Pakistan,Undirected,0.00022
+India,United States,Undirected,0.000219
+Hong Kong,Nepal,Undirected,0.000217
+China,Kenya,Undirected,0.000215
+Australia,Italy,Undirected,0.000214
+France,Malaysia,Undirected,0.000214
+United States,Vietnam,Undirected,0.000214
+Malaysia,Nepal,Undirected,0.000211
+Malaysia,Pakistan,Undirected,0.000211
+Australia,Russia,Undirected,0.00021
+Congo,China,Undirected,0.000209
+France,Philippines,Undirected,0.000208
+Sweden,United Kingdom,Undirected,0.000207
+Myanmar,Hong Kong,Undirected,0.000206
+Brunei,Hong Kong,Undirected,0.000206
+Bolivia,Hong Kong,Undirected,0.000206
+Brunei,Malaysia,Undirected,0.000204
+Germany,Kazakhstan,Undirected,0.000203
+Myanmar,Malaysia,Undirected,0.000203
+Bolivia,Malaysia,Undirected,0.000203
+Senegal,Vietnam,Undirected,0.000203
+Belgium,United Kingdom,Undirected,0.000202
+China,Greece,Undirected,0.0002
+Canada,Hong Kong,Undirected,0.000198
+Finland,United Kingdom,Undirected,0.000198
+Canada,Germany,Undirected,0.000197
+Germany,Netherlands,Undirected,0.000194
+Hong Kong,Switzerland,Undirected,0.000194
+Spain,Thailand,Undirected,0.000193
+Indonesia,Singapore,Undirected,0.000191
+Bulgaria,Japan,Undirected,0.000187
+Indonesia,Macau,Undirected,0.000187
+North Korea,South Korea,Undirected,0.000184
+India,Philippines,Undirected,0.000183
+Austria,Japan,Undirected,0.000183
+Italy,Spain,Undirected,0.000182
+Cambodia,France,Undirected,0.00018
+Ireland,United Kingdom,Undirected,0.000179
+Egypt,France,Undirected,0.000179
+India,Russia,Undirected,0.000175
+Switzerland,United States,Undirected,0.000175
+France,Indonesia,Undirected,0.000173
+Italy,Singapore,Undirected,0.000168
+Cambodia,Malaysia,Undirected,0.000167
+France,Switzerland,Undirected,0.000163
+Cambodia,Singapore,Undirected,0.000162
+Kazakhstan,Philippines,Undirected,0.000158
+Iran,United States,Undirected,0.000157
+Italy,Macau,Undirected,0.000157
+Austria,United Kingdom,Undirected,0.000154
+India,Kazakhstan,Undirected,0.000153
+China,Iraq,Undirected,0.000146
+Russia,Spain,Undirected,0.000145
+Belgium,Japan,Undirected,0.000144
+China,Turkey,Undirected,0.000143
+Kazakhstan,Russia,Undirected,0.000141
+Italy,Nepal,Undirected,0.000141
+China,Ireland,Undirected,0.000141
+Italy,Pakistan,Undirected,0.00014
+Indonesia,Pakistan,Undirected,0.00014
+Switzerland,Taiwan,Undirected,0.000138
+Russia,Taiwan,Undirected,0.000138
+Indonesia,United States,Undirected,0.000138
+Myanmar,Indonesia,Undirected,0.000137
+Indonesia,Nepal,Undirected,0.000137
+Brunei,Indonesia,Undirected,0.000136
+Cambodia,Philippines,Undirected,0.000136
+Germany,Senegal,Undirected,0.000136
+Bolivia,Italy,Undirected,0.000135
+Bolivia,Indonesia,Undirected,0.000135
+Brunei,Italy,Undirected,0.000135
+Myanmar,Italy,Undirected,0.000135
+Ukraine,United States,Undirected,0.000132
+Russia,Singapore,Undirected,0.000131
+South Korea,Spain,Undirected,0.000131
+Austria,Hong Kong,Undirected,0.000131
+Australia,Spain,Undirected,0.00013
+Cambodia,Indonesia,Undirected,0.000128
+Singapore,Spain,Undirected,0.000128
+Italy,Switzerland,Undirected,0.000123
+India,Spain,Undirected,0.000123
+Australia,Taiwan,Undirected,0.000122
+Germany,Luxembourg,Undirected,0.000122
+Russia,Switzerland,Undirected,0.00012
+Japan,Nigeria,Undirected,0.000118
+Thailand,Taiwan,Undirected,0.000117
+Egypt,Hong Kong,Undirected,0.000115
+Australia,Singapore,Undirected,0.000114
+Singapore,Taiwan,Undirected,0.000113
+Macau,Vietnam,Undirected,0.000112
+Egypt,Ukraine,Undirected,0.000111
+Philippines,Singapore,Undirected,0.00011
+Indonesia,Spain,Undirected,0.000109
+Israel,Japan,Undirected,0.000109
+Brunei,Vietnam,Undirected,0.000108
+Cambodia,South Korea,Undirected,0.000108
+Egypt,Switzerland,Undirected,0.000108
+Israel,United States,Undirected,0.000107
+Nepal,Vietnam,Undirected,0.000107
+Philippines,Senegal,Undirected,0.000105
+Pakistan,Vietnam,Undirected,0.000105
+Myanmar,Vietnam,Undirected,0.000105
+Japan,East Timor,Undirected,0.000105
+Canada,Taiwan,Undirected,0.000105
+Cambodia,Taiwan,Undirected,0.000104
+Australia,Thailand,Undirected,0.000103
+Bulgaria,Russia,Undirected,0.000103
+Austria,Italy,Undirected,0.000103
+Macau,Singapore,Undirected,0.000102
+India,Senegal,Undirected,0.000102
+China,Luxembourg,Undirected,0.000102
+Bolivia,Vietnam,Undirected,0.000102
+Egypt,Thailand,Undirected,0.000102
+Egypt,Russia,Undirected,0.000101
+Kazakhstan,Senegal,Undirected,0.000101
+France,Taiwan,Undirected,0.000101
+Australia,Vietnam,Undirected,0.0001
+Cambodia,Egypt,Undirected,9.9e-05
+Mexico,United States,Undirected,9.9e-05
+China,Haiti,Undirected,9.8e-05
+Germany,Macau,Undirected,9.8e-05
+Malaysia,Spain,Undirected,9.8e-05
+Guam,Japan,Undirected,9.8e-05
+Bulgaria,United States,Undirected,9.7e-05
+China,Chile,Undirected,9.7e-05
+Switzerland,Thailand,Undirected,9.7e-05
+Brazil,Canada,Undirected,9.6e-05
+Belize,China,Undirected,9.6e-05
+China,Nauru,Undirected,9.6e-05
+Ethiopia,Japan,Undirected,9.6e-05
+Macau,United States,Undirected,9.5e-05
+Guam,United Kingdom,Undirected,9.5e-05
+Sudan,Thailand,Undirected,9.4e-05
+Japan,North Korea,Undirected,9.4e-05
+Czech Republic,Japan,Undirected,9.4e-05
+Bangladesh,Thailand,Undirected,9.4e-05
+Austria,Russia,Undirected,9.4e-05
+Singapore,Switzerland,Undirected,9.3e-05
+Germany,Nepal,Undirected,9.3e-05
+China,Jamaica,Undirected,9.2e-05
+China,Poland,Undirected,9.2e-05
+Germany,Jamaica,Undirected,9.1e-05
+India,Macau,Undirected,9e-05
+Australia,South Korea,Undirected,9e-05
+Finland,Hong Kong,Undirected,9e-05
+Russia,Senegal,Undirected,8.9e-05
+Malaysia,Taiwan,Undirected,8.8e-05
+Japan,Sweden,Undirected,8.8e-05
+Germany,Pakistan,Undirected,8.6e-05
+Australia,Philippines,Undirected,8.5e-05
+Cambodia,Spain,Undirected,8.5e-05
+Australia,Switzerland,Undirected,8.4e-05
+Canada,Malaysia,Undirected,8.4e-05
+Japan,Portugal,Undirected,8.3e-05
+Canada,Russia,Undirected,8.3e-05
+United Arab Emirates,United States,Undirected,8.3e-05
+Iran,Russia,Undirected,8.2e-05
+Germany,Reunion,Undirected,8.2e-05
+Austria,France,Undirected,8.1e-05
+Germany,Portugal,Undirected,8e-05
+Canada,France,Undirected,8e-05
+France,Macau,Undirected,8e-05
+Philippines,Spain,Undirected,7.9e-05
+Canada,Thailand,Undirected,7.9e-05
+China,Liberia,Undirected,7.8e-05
+Australia,Indonesia,Undirected,7.8e-05
+Australia,Canada,Undirected,7.7e-05
+Finland,Italy,Undirected,7.7e-05
+Canada,Singapore,Undirected,7.7e-05
+India,Pakistan,Undirected,7.7e-05
+United Arab Emirates,Japan,Undirected,7.7e-05
+Finland,Russia,Undirected,7.6e-05
+Egypt,Malaysia,Undirected,7.6e-05
+Hong Kong,Israel,Undirected,7.6e-05
+Macau,Philippines,Undirected,7.5e-05
+Bangladesh,Indonesia,Undirected,7.5e-05
+Japan,South Africa,Undirected,7.5e-05
+Indonesia,Sudan,Undirected,7.5e-05
+Finland,France,Undirected,7.3e-05
+Singapore,Vietnam,Undirected,7.3e-05
+Australia,Cambodia,Undirected,7.2e-05
+Japan,Netherlands,Undirected,7.2e-05
+Belgium,Singapore,Undirected,7.2e-05
+Canada,Cambodia,Undirected,7.2e-05
+Democratic Republic of the Congo,United Kingdom,Undirected,7.2e-05
+China,Uzbekistan,Undirected,7.2e-05
+China,Reunion,Undirected,7.2e-05
+Saudi Arabia,United States,Undirected,7.2e-05
+Canada,South Korea,Undirected,7.1e-05
+Philippines,Taiwan,Undirected,7.1e-05
+Canada,India,Undirected,7e-05
+Singapore,East Timor,Undirected,7e-05
+Cambodia,Italy,Undirected,7e-05
+China,Romania,Undirected,6.9e-05
+Egypt,Vietnam,Undirected,6.9e-05
+Brunei,Germany,Undirected,6.8e-05
+Myanmar,Germany,Undirected,6.8e-05
+Bolivia,Germany,Undirected,6.8e-05
+Spain,Switzerland,Undirected,6.7e-05
+Canada,Mexico,Undirected,6.6e-05
+Canada,Italy,Undirected,6.6e-05
+Germany,Saudi Arabia,Undirected,6.5e-05
+Finland,Japan,Undirected,6.4e-05
+France,Portugal,Undirected,6.4e-05
+Ethiopia,Taiwan,Undirected,6.3e-05
+Bangladesh,Germany,Undirected,6.3e-05
+Netherlands,United States,Undirected,6.2e-05
+Belgium,Thailand,Undirected,6.2e-05
+Germany,Iraq,Undirected,6.2e-05
+Germany,Romania,Undirected,6.1e-05
+Nepal,Philippines,Undirected,6.1e-05
+Bulgaria,United Kingdom,Undirected,6.1e-05
+Italy,Taiwan,Undirected,6e-05
+China,Norway,Undirected,6e-05
+South Korea,Taiwan,Undirected,6e-05
+Japan,Ukraine,Undirected,5.9e-05
+Macau,Russia,Undirected,5.9e-05
+Belgium,France,Undirected,5.9e-05
+India,Nepal,Undirected,5.9e-05
+Cambodia,Guam,Undirected,5.8e-05
+Hong Kong,Sweden,Undirected,5.8e-05
+Spain,Vietnam,Undirected,5.8e-05
+Iran,United Kingdom,Undirected,5.8e-05
+China,Zambia,Undirected,5.8e-05
+Australia,Austria,Undirected,5.8e-05
+Italy,Sweden,Undirected,5.8e-05
+Sri Lanka,Thailand,Undirected,5.7e-05
+India,Singapore,Undirected,5.7e-05
+Malaysia,East Timor,Undirected,5.6e-05
+South Korea,East Timor,Undirected,5.6e-05
+China,Syria,Undirected,5.5e-05
+Pakistan,Philippines,Undirected,5.5e-05
+Sweden,United States,Undirected,5.5e-05
+Myanmar,Philippines,Undirected,5.4e-05
+Bolivia,India,Undirected,5.4e-05
+Finland,United States,Undirected,5.4e-05
+Austria,Singapore,Undirected,5.3e-05
+Brunei,Philippines,Undirected,5.3e-05
+Kazakhstan,United States,Undirected,5.3e-05
+United Arab Emirates,Hong Kong,Undirected,5.3e-05
+Haiti,Taiwan,Undirected,5.3e-05
+Bolivia,Philippines,Undirected,5.3e-05
+Belgium,Hong Kong,Undirected,5.3e-05
+Belize,Taiwan,Undirected,5.3e-05
+Nauru,Taiwan,Undirected,5.3e-05
+Kazakhstan,Pakistan,Undirected,5.2e-05
+China,Papua New Guinea,Undirected,5.2e-05
+Sri Lanka,United States,Undirected,5.2e-05
+Kazakhstan,Macau,Undirected,5.2e-05
+Nepal,United States,Undirected,5.1e-05
+Philippines,Switzerland,Undirected,5.1e-05
+Egypt,Italy,Undirected,5.1e-05
+Brunei,India,Undirected,5.1e-05
+Myanmar,India,Undirected,5.1e-05
+Brunei,Kazakhstan,Undirected,5.1e-05
+Pakistan,Russia,Undirected,5.1e-05
+Kazakhstan,Nepal,Undirected,5.1e-05
+Myanmar,Kazakhstan,Undirected,5.1e-05
+Bolivia,Kazakhstan,Undirected,5.1e-05
+Nepal,Russia,Undirected,5e-05
+Myanmar,Russia,Undirected,5e-05
+North Korea,United States,Undirected,5e-05
+Egypt,South Korea,Undirected,5e-05
+Mongolia,Russia,Undirected,5e-05
+France,Mongolia,Undirected,4.9e-05
+Belgium,United States,Undirected,4.9e-05
+Ethiopia,Singapore,Undirected,4.9e-05
+Austria,Switzerland,Undirected,4.9e-05
+China,Guinea,Undirected,4.9e-05
+France,Vietnam,Undirected,4.9e-05
+Australia,Malaysia,Undirected,4.8e-05
+Cambodia,Russia,Undirected,4.8e-05
+Australia,New Zealand,Undirected,4.8e-05
+Indonesia,Switzerland,Undirected,4.8e-05
+Egypt,Singapore,Undirected,4.7e-05
+Germany,Guam,Undirected,4.7e-05
+Egypt,North Korea,Undirected,4.7e-05
+Belgium,South Korea,Undirected,4.7e-05
+Egypt,Spain,Undirected,4.6e-05
+North Korea,United Kingdom,Undirected,4.6e-05
+Australia,Sweden,Undirected,4.6e-05
+France,India,Undirected,4.5e-05
+Canada,Israel,Undirected,4.5e-05
+Brazil,Japan,Undirected,4.5e-05
+Brunei,Russia,Undirected,4.5e-05
+Bolivia,Russia,Undirected,4.5e-05
+China,Yemen,Undirected,4.4e-05
+Cambodia,Switzerland,Undirected,4.4e-05
+France,Sweden,Undirected,4.4e-05
+Hong Kong,Mongolia,Undirected,4.4e-05
+Australia,Finland,Undirected,4.3e-05
+Belgium,Malaysia,Undirected,4.3e-05
+Israel,Malaysia,Undirected,4.3e-05
+Hong Kong,Netherlands,Undirected,4.3e-05
+China,Puerto Rico,Undirected,4.3e-05
+South Korea,Switzerland,Undirected,4.2e-05
+Thailand,East Timor,Undirected,4.2e-05
+Indonesia,East Timor,Undirected,4.2e-05
+East Timor,United Kingdom,Undirected,4.2e-05
+Brazil,United Kingdom,Undirected,4.2e-05
+Macau,Senegal,Undirected,4.1e-05
+Sweden,Switzerland,Undirected,4.1e-05
+Bulgaria,France,Undirected,4.1e-05
+Austria,United States,Undirected,4.1e-05
+Ethiopia,Malaysia,Undirected,4.1e-05
+Russia,Turkey,Undirected,4.1e-05
+Canada,Philippines,Undirected,4.1e-05
+Canada,Spain,Undirected,4e-05
+Australia,India,Undirected,4e-05
+United Kingdom,Ukraine,Undirected,4e-05
+Russia,Sweden,Undirected,4e-05
+Greece,United States,Undirected,4e-05
+Cambodia,North Korea,Undirected,4e-05
+Brazil,United States,Undirected,3.9e-05
+Ethiopia,South Korea,Undirected,3.9e-05
+Portugal,Thailand,Undirected,3.9e-05
+Australia,Czech Republic,Undirected,3.9e-05
+Brazil,Hong Kong,Undirected,3.8e-05
+China,Croatia,Undirected,3.8e-05
+Belarus,China,Undirected,3.8e-05
+Ghana,Japan,Undirected,3.8e-05
+Cambodia,Vietnam,Undirected,3.8e-05
+Sri Lanka,Indonesia,Undirected,3.8e-05
+Belgium,Indonesia,Undirected,3.8e-05
+China,Qatar,Undirected,3.7e-05
+Syria,Turkey,Undirected,3.7e-05
+Iran,Ukraine,Undirected,3.7e-05
+Pakistan,United States,Undirected,3.6e-05
+Japan,Sierra Leone,Undirected,3.6e-05
+France,Ukraine,Undirected,3.6e-05
+Italy,Mongolia,Undirected,3.6e-05
+Greece,Japan,Undirected,3.5e-05
+Singapore,Sweden,Undirected,3.5e-05
+Japan,Mongolia,Undirected,3.5e-05
+Hong Kong,East Timor,Undirected,3.5e-05
+Netherlands,United Kingdom,Undirected,3.5e-05
+Pakistan,Senegal,Undirected,3.5e-05
+Japan,Madagascar,Undirected,3.5e-05
+France,East Timor,Undirected,3.5e-05
+Brazil,Italy,Undirected,3.5e-05
+Spain,Taiwan,Undirected,3.4e-05
+China,Serbia,Undirected,3.4e-05
+Nepal,Senegal,Undirected,3.4e-05
+Bangladesh,Cambodia,Undirected,3.4e-05
+Bolivia,Senegal,Undirected,3.4e-05
+Brunei,Senegal,Undirected,3.4e-05
+Myanmar,Senegal,Undirected,3.4e-05
+United Arab Emirates,United Kingdom,Undirected,3.4e-05
+Nigeria,Singapore,Undirected,3.3e-05
+Hong Kong,North Korea,Undirected,3.3e-05
+Sri Lanka,United Kingdom,Undirected,3.3e-05
+Israel,Singapore,Undirected,3.3e-05
+Democratic Republic of the Congo,China,Undirected,3.3e-05
+Egypt,Philippines,Undirected,3.2e-05
+Turkey,Ukraine,Undirected,3.2e-05
+Israel,United Kingdom,Undirected,3.2e-05
+Bangladesh,Sudan,Undirected,3.2e-05
+Cambodia,Sudan,Undirected,3.2e-05
+United Arab Emirates,Malaysia,Undirected,3.2e-05
+Malaysia,South Africa,Undirected,3.2e-05
+Greece,Italy,Undirected,3.2e-05
+Finland,Spain,Undirected,3.2e-05
+Ethiopia,United Kingdom,Undirected,3.1e-05
+Germany,Ukraine,Undirected,3.1e-05
+Ethiopia,Indonesia,Undirected,3.1e-05
+Portugal,Russia,Undirected,3.1e-05
+Ethiopia,Hong Kong,Undirected,3.1e-05
+Australia,Portugal,Undirected,3.1e-05
+South Africa,Singapore,Undirected,3.1e-05
+Czech Republic,Hong Kong,Undirected,3.1e-05
+South Korea,South Africa,Undirected,3.1e-05
+Czech Republic,Russia,Undirected,3.1e-05
+Macau,Taiwan,Undirected,3.1e-05
+Nigeria,Taiwan,Undirected,3.1e-05
+Sri Lanka,Japan,Undirected,3.1e-05
+Austria,Philippines,Undirected,3e-05
+Cambodia,Macau,Undirected,3e-05
+Greece,Spain,Undirected,3e-05
+Hong Kong,South Africa,Undirected,3e-05
+Ethiopia,Thailand,Undirected,3e-05
+China,Venezuela,Undirected,3e-05
+Cambodia,India,Undirected,3e-05
+Senegal,Singapore,Undirected,3e-05
+Israel,Russia,Undirected,2.9e-05
+Finland,Singapore,Undirected,2.9e-05
+China,Estonia,Undirected,2.9e-05
+New Zealand,Thailand,Undirected,2.9e-05
+Austria,Spain,Undirected,2.9e-05
+India,Switzerland,Undirected,2.9e-05
+Malaysia,Nigeria,Undirected,2.9e-05
+Austria,Egypt,Undirected,2.9e-05
+Japan,New Zealand,Undirected,2.8e-05
+Israel,Taiwan,Undirected,2.8e-05
+Japan,Luxembourg,Undirected,2.7e-05
+United Arab Emirates,Canada,Undirected,2.7e-05
+Switzerland,Vietnam,Undirected,2.7e-05
+Brazil,Russia,Undirected,2.7e-05
+Greece,Hong Kong,Undirected,2.7e-05
+Guam,Philippines,Undirected,2.7e-05
+Italy,Portugal,Undirected,2.7e-05
+Senegal,United States,Undirected,2.7e-05
+Ghana,Singapore,Undirected,2.6e-05
+Germany,New Zealand,Undirected,2.6e-05
+Australia,Ghana,Undirected,2.6e-05
+Guam,Thailand,Undirected,2.6e-05
+Austria,Thailand,Undirected,2.6e-05
+United Arab Emirates,Singapore,Undirected,2.6e-05
+Canada,Egypt,Undirected,2.6e-05
+China,Colombia,Undirected,2.6e-05
+Egypt,Taiwan,Undirected,2.6e-05
+France,North Korea,Undirected,2.6e-05
+Guam,Hong Kong,Undirected,2.5e-05
+Ethiopia,France,Undirected,2.5e-05
+Macau,Spain,Undirected,2.5e-05
+Finland,Philippines,Undirected,2.5e-05
+Australia,Macau,Undirected,2.5e-05
+Sierra Leone,United Kingdom,Undirected,2.5e-05
+Myanmar,United States,Undirected,2.5e-05
+France,Pakistan,Undirected,2.5e-05
+China,Vatican City,Undirected,2.5e-05
+South Africa,Thailand,Undirected,2.5e-05
+Ireland,Switzerland,Undirected,2.5e-05
+China,Zimbabwe,Undirected,2.5e-05
+Australia,Belgium,Undirected,2.5e-05
+Indonesia,Taiwan,Undirected,2.5e-05
+Sierra Leone,Singapore,Undirected,2.5e-05
+Germany,Turkey,Undirected,2.5e-05
+Nigeria,United States,Undirected,2.5e-05
+Japan,Mexico,Undirected,2.5e-05
+India,Taiwan,Undirected,2.4e-05
+North Korea,Russia,Undirected,2.4e-05
+Nigeria,United Kingdom,Undirected,2.4e-05
+Nigeria,Thailand,Undirected,2.4e-05
+Cyprus,United Kingdom,Undirected,2.4e-05
+Belgium,Italy,Undirected,2.4e-05
+Spain,Sweden,Undirected,2.4e-05
+Bangladesh,France,Undirected,2.4e-05
+Czech Republic,South Korea,Undirected,2.4e-05
+United Arab Emirates,Taiwan,Undirected,2.4e-05
+Germany,Syria,Undirected,2.4e-05
+Finland,Switzerland,Undirected,2.4e-05
+Finland,South Korea,Undirected,2.4e-05
+Austria,Sweden,Undirected,2.3e-05
+South Korea,Laos,Undirected,2.3e-05
+Madagascar,Singapore,Undirected,2.3e-05
+Sri Lanka,India,Undirected,2.3e-05
+Laos,Vietnam,Undirected,2.3e-05
+Laos,Thailand,Undirected,2.3e-05
+Cambodia,Netherlands,Undirected,2.3e-05
+Macau,Nepal,Undirected,2.3e-05
+South Africa,United Kingdom,Undirected,2.2e-05
+China,Somalia,Undirected,2.2e-05
+China,Somaliland,Undirected,2.2e-05
+Luxembourg,United Kingdom,Undirected,2.2e-05
+Argentina,United States,Undirected,2.2e-05
+Peru,Ukraine,Undirected,2.2e-05
+Finland,Thailand,Undirected,2.2e-05
+Belgium,Macau,Undirected,2.2e-05
+Pakistan,Ukraine,Undirected,2.2e-05
+Ukraine,Uzbekistan,Undirected,2.2e-05
+Israel,Italy,Undirected,2.2e-05
+Latvia,Ukraine,Undirected,2.2e-05
+Moldova,Ukraine,Undirected,2.2e-05
+France,Netherlands,Undirected,2.1e-05
+Canada,Vietnam,Undirected,2.1e-05
+Germany,Venezuela,Undirected,2.1e-05
+France,Nepal,Undirected,2.1e-05
+Portugal,United Kingdom,Undirected,2.1e-05
+North Korea,Malaysia,Undirected,2.1e-05
+Macau,East Timor,Undirected,2.1e-05
+Jersey,United States,Undirected,2.1e-05
+Sweden,Thailand,Undirected,2.1e-05
+Congo,United States,Undirected,2.1e-05
+Indonesia,South Africa,Undirected,2.1e-05
+Belgium,Cambodia,Undirected,2.1e-05
+Philippines,Sweden,Undirected,2.1e-05
+Chile,United States,Undirected,2e-05
+Australia,Brazil,Undirected,2e-05
+North Korea,Thailand,Undirected,2e-05
+Taiwan,Vietnam,Undirected,2e-05
+China,Dominican Republic,Undirected,2e-05
+Russia,Syria,Undirected,2e-05
+Bulgaria,Italy,Undirected,2e-05
+South Korea,Sierra Leone,Undirected,2e-05
+Turkey,United States,Undirected,2e-05
+France,Greece,Undirected,2e-05
+Guam,United States,Undirected,2e-05
+Australia,Mongolia,Undirected,1.9e-05
+Bulgaria,Hong Kong,Undirected,1.9e-05
+China,Cyprus,Undirected,1.9e-05
+Nepal,Pakistan,Undirected,1.9e-05
+Malaysia,Sierra Leone,Undirected,1.9e-05
+Belgium,Russia,Undirected,1.9e-05
+Egypt,Indonesia,Undirected,1.9e-05
+Japan,Laos,Undirected,1.9e-05
+Brazil,France,Undirected,1.9e-05
+Syria,Ukraine,Undirected,1.9e-05
+Bangladesh,Spain,Undirected,1.9e-05
+Ghana,Malaysia,Undirected,1.9e-05
+Cambodia,Sri Lanka,Undirected,1.9e-05
+Belarus,Syria,Undirected,1.9e-05
+China,Ecuador,Undirected,1.9e-05
+South Korea,Nigeria,Undirected,1.9e-05
+Austria,Finland,Undirected,1.9e-05
+South Korea,Madagascar,Undirected,1.9e-05
+Madagascar,Malaysia,Undirected,1.9e-05
+Ghana,South Korea,Undirected,1.9e-05
+Mongolia,United Kingdom,Undirected,1.8e-05
+Canada,Macau,Undirected,1.8e-05
+Egypt,South Africa,Undirected,1.8e-05
+Netherlands,Singapore,Undirected,1.8e-05
+Czech Republic,Italy,Undirected,1.8e-05
+North Korea,Philippines,Undirected,1.8e-05
+Brunei,United States,Undirected,1.8e-05
+Belgium,Spain,Undirected,1.8e-05
+Brazil,Switzerland,Undirected,1.8e-05
+Macau,Pakistan,Undirected,1.8e-05
+France,Senegal,Undirected,1.8e-05
+Bangladesh,Japan,Undirected,1.8e-05
+Sri Lanka,France,Undirected,1.8e-05
+Macau,Portugal,Undirected,1.8e-05
+Mexico,Russia,Undirected,1.8e-05
+Netherlands,Russia,Undirected,1.8e-05
+United Arab Emirates,Israel,Undirected,1.8e-05
+Laos,United Kingdom,Undirected,1.7e-05
+Laos,Malaysia,Undirected,1.7e-05
+Japan,Jamaica,Undirected,1.7e-05
+Hong Kong,Laos,Undirected,1.7e-05
+Myanmar,Pakistan,Undirected,1.7e-05
+Brunei,Pakistan,Undirected,1.7e-05
+Bolivia,Pakistan,Undirected,1.7e-05
+Myanmar,Brunei,Undirected,1.7e-05
+Mexico,United Kingdom,Undirected,1.7e-05
+Myanmar,Macau,Undirected,1.7e-05
+Macau,Nigeria,Undirected,1.7e-05
+Ethiopia,Nigeria,Undirected,1.7e-05
+Ethiopia,South Africa,Undirected,1.7e-05
+Bolivia,Macau,Undirected,1.7e-05
+Brunei,Macau,Undirected,1.7e-05
+Italy,Netherlands,Undirected,1.7e-05
+Ghana,United Kingdom,Undirected,1.7e-05
+Turkey,United Kingdom,Undirected,1.7e-05
+Malaysia,Netherlands,Undirected,1.7e-05
+Myanmar,Nepal,Undirected,1.7e-05
+Bolivia,Nepal,Undirected,1.7e-05
+Brunei,Nepal,Undirected,1.7e-05
+Bolivia,Brunei,Undirected,1.7e-05
+Bangladesh,Switzerland,Undirected,1.7e-05
+Bolivia,Myanmar,Undirected,1.7e-05
+Bulgaria,Ukraine,Undirected,1.7e-05
+Spain,Sudan,Undirected,1.7e-05
+Russia,Saudi Arabia,Undirected,1.7e-05
+Japan,Sudan,Undirected,1.7e-05
+Democratic Republic of the Congo,Switzerland,Undirected,1.7e-05
+Hong Kong,Saudi Arabia,Undirected,1.7e-05
+Portugal,Singapore,Undirected,1.7e-05
+New Zealand,United States,Undirected,1.7e-05
+Ethiopia,United States,Undirected,1.7e-05
+China,Denmark,Undirected,1.7e-05
+Kazakhstan,Spain,Undirected,1.6e-05
+France,Sudan,Undirected,1.6e-05
+Ethiopia,Macau,Undirected,1.6e-05
+India,Mongolia,Undirected,1.6e-05
+Austria,Brazil,Undirected,1.6e-05
+Hong Kong,New Zealand,Undirected,1.6e-05
+Mongolia,United States,Undirected,1.6e-05
+Australia,Egypt,Undirected,1.6e-05
+Sudan,Switzerland,Undirected,1.6e-05
+Germany,Greece,Undirected,1.6e-05
+South Africa,United States,Undirected,1.6e-05
+Bangladesh,Sri Lanka,Undirected,1.6e-05
+Sri Lanka,Sudan,Undirected,1.6e-05
+South Africa,Taiwan,Undirected,1.6e-05
+United Arab Emirates,Germany,Undirected,1.6e-05
+Finland,Sweden,Undirected,1.6e-05
+Japan,Romania,Undirected,1.6e-05
+Brazil,Singapore,Undirected,1.6e-05
+Germany,Qatar,Undirected,1.6e-05
+China,Cameroon,Undirected,1.6e-05
+Argentina,Netherlands,Undirected,1.6e-05
+New Zealand,United Kingdom,Undirected,1.6e-05
+India,Venezuela,Undirected,1.6e-05
+Bosnia-Herzegovina,China,Undirected,1.6e-05
+Nepal,Spain,Undirected,1.6e-05
+Portugal,United States,Undirected,1.6e-05
+Afghanistan,China,Undirected,1.6e-05
+China,Oman,Undirected,1.6e-05
+Estonia,Czech Republic,Undirected,1.5e-05
+Czech Republic,Pakistan,Undirected,1.5e-05
+Japan,Papua New Guinea,Undirected,1.5e-05
+Belgium,Vietnam,Undirected,1.5e-05
+Greece,Malaysia,Undirected,1.5e-05
+Guam,Taiwan,Undirected,1.5e-05
+Saudi Arabia,United Kingdom,Undirected,1.5e-05
+Iran,Pakistan,Undirected,1.5e-05
+Malaysia,New Zealand,Undirected,1.5e-05
+Brazil,Mexico,Undirected,1.5e-05
+South Korea,New Zealand,Undirected,1.5e-05
+Guam,Singapore,Undirected,1.5e-05
+Ghana,Thailand,Undirected,1.5e-05
+Sierra Leone,Thailand,Undirected,1.5e-05
+Malaysia,Switzerland,Undirected,1.5e-05
+Cambodia,Nigeria,Undirected,1.5e-05
+Japan,Reunion,Undirected,1.5e-05
+Belgium,Switzerland,Undirected,1.5e-05
+Ghana,Indonesia,Undirected,1.5e-05
+Sri Lanka,Spain,Undirected,1.5e-05
+Bulgaria,Vietnam,Undirected,1.5e-05
+Australia,Nepal,Undirected,1.5e-05
+Canada,Indonesia,Undirected,1.5e-05
+Canada,Netherlands,Undirected,1.4e-05
+Bolivia,United States,Undirected,1.4e-05
+Mongolia,Spain,Undirected,1.4e-05
+Iraq,United States,Undirected,1.4e-05
+Cambodia,East Timor,Undirected,1.4e-05
+Madagascar,United Kingdom,Undirected,1.4e-05
+Ethiopia,East Timor,Undirected,1.4e-05
+Indonesia,Laos,Undirected,1.4e-05
+Indonesia,Madagascar,Undirected,1.4e-05
+Indonesia,Nigeria,Undirected,1.4e-05
+Belgium,East Timor,Undirected,1.4e-05
+Madagascar,Thailand,Undirected,1.4e-05
+Indonesia,Sierra Leone,Undirected,1.4e-05
+France,Turkey,Undirected,1.4e-05
+Belgium,Philippines,Undirected,1.4e-05
+Norway,United States,Undirected,1.4e-05
+Belgium,Sweden,Undirected,1.4e-05
+Portugal,Taiwan,Undirected,1.4e-05
+Bulgaria,Singapore,Undirected,1.4e-05
+Ireland,Singapore,Undirected,1.4e-05
+Brazil,Spain,Undirected,1.4e-05
+Austria,Canada,Undirected,1.4e-05
+Sierra Leone,United States,Undirected,1.4e-05
+Belgium,Portugal,Undirected,1.3e-05
+Austria,Luxembourg,Undirected,1.3e-05
+Guinea,United Kingdom,Undirected,1.3e-05
+France,Iraq,Undirected,1.3e-05
+Hong Kong,Luxembourg,Undirected,1.3e-05
+Egypt,India,Undirected,1.3e-05
+Hong Kong,Sierra Leone,Undirected,1.3e-05
+France,South Africa,Undirected,1.3e-05
+Greece,Taiwan,Undirected,1.3e-05
+Democratic Republic of the Congo,Ireland,Undirected,1.3e-05
+Nepal,Singapore,Undirected,1.3e-05
+Canada,Sweden,Undirected,1.3e-05
+Jamaica,United Kingdom,Undirected,1.3e-05
+Ghana,Nigeria,Undirected,1.3e-05
+Nigeria,South Africa,Undirected,1.3e-05
+France,Sierra Leone,Undirected,1.3e-05
+Bulgaria,Canada,Undirected,1.3e-05
+Indonesia,Portugal,Undirected,1.3e-05
+China,Libya,Undirected,1.3e-05
+Guam,South Korea,Undirected,1.3e-05
+France,Ghana,Undirected,1.3e-05
+Belarus,Turkey,Undirected,1.3e-05
+Sweden,Taiwan,Undirected,1.3e-05
+Italy,North Korea,Undirected,1.3e-05
+India,Nigeria,Undirected,1.3e-05
+Mongolia,Portugal,Undirected,1.3e-05
+Reunion,United Kingdom,Undirected,1.3e-05
+Cambodia,Ethiopia,Undirected,1.2e-05
+Romania,United Kingdom,Undirected,1.2e-05
+China,Mauritius,Undirected,1.2e-05
+Portugal,Papua New Guinea,Undirected,1.2e-05
+Israel,Thailand,Undirected,1.2e-05
+Belgium,Taiwan,Undirected,1.2e-05
+France,Nigeria,Undirected,1.2e-05
+Hong Kong,Nigeria,Undirected,1.2e-05
+Ghana,Hong Kong,Undirected,1.2e-05
+United Arab Emirates,Italy,Undirected,1.2e-05
+Canada,Switzerland,Undirected,1.2e-05
+Bulgaria,Israel,Undirected,1.2e-05
+Guam,Malaysia,Undirected,1.2e-05
+Netherlands,Taiwan,Undirected,1.2e-05
+Japan,Turkey,Undirected,1.2e-05
+Macau,South Africa,Undirected,1.2e-05
+Argentina,Japan,Undirected,1.2e-05
+Congo,United Kingdom,Undirected,1.2e-05
+Hong Kong,Mexico,Undirected,1.2e-05
+France,Madagascar,Undirected,1.2e-05
+Sri Lanka,Hong Kong,Undirected,1.2e-05
+France,Saudi Arabia,Undirected,1.2e-05
+Bulgaria,Thailand,Undirected,1.2e-05
+Cambodia,Israel,Undirected,1.2e-05
+Hong Kong,Madagascar,Undirected,1.2e-05
+Italy,Laos,Undirected,1.2e-05
+Netherlands,Spain,Undirected,1.2e-05
+Liberia,United Kingdom,Undirected,1.2e-05
+Congo,Nigeria,Undirected,1.2e-05
+Jamaica,United States,Undirected,1.1e-05
+Finland,Malaysia,Undirected,1.1e-05
+Mongolia,Philippines,Undirected,1.1e-05
+India,Sweden,Undirected,1.1e-05
+Congo,Philippines,Undirected,1.1e-05
+Australia,Sri Lanka,Undirected,1.1e-05
+Netherlands,Thailand,Undirected,1.1e-05
+Egypt,Macau,Undirected,1.1e-05
+Canada,Sri Lanka,Undirected,1.1e-05
+Iraq,Russia,Undirected,1.1e-05
+North Korea,Switzerland,Undirected,1.1e-05
+Mexico,Singapore,Undirected,1.1e-05
+Canada,Nigeria,Undirected,1.1e-05
+Chile,Japan,Undirected,1.1e-05
+Bangladesh,Pakistan,Undirected,1.1e-05
+Iraq,Japan,Undirected,1.1e-05
+France,Papua New Guinea,Undirected,1.1e-05
+Chile,Spain,Undirected,1.1e-05
+Egypt,Ethiopia,Undirected,1.1e-05
+Hong Kong,Iraq,Undirected,1.1e-05
+Senegal,Spain,Undirected,1.1e-05
+United Arab Emirates,Cambodia,Undirected,1.1e-05
+Mongolia,Thailand,Undirected,1.1e-05
+Brazil,Philippines,Undirected,1.1e-05
+Hong Kong,Jamaica,Undirected,1.1e-05
+Finland,Taiwan,Undirected,1.1e-05
+Brazil,Thailand,Undirected,1.1e-05
+Brazil,Sweden,Undirected,1.1e-05
+Bhutan,China,Undirected,1e-05
+Cambodia,Nepal,Undirected,1e-05
+Brazil,Taiwan,Undirected,1e-05
+Belgium,Finland,Undirected,1e-05
+Algeria,Nigeria,Undirected,1e-05
+Angola,Nigeria,Undirected,1e-05
+China,Uganda,Undirected,1e-05
+Canada,Finland,Undirected,1e-05
+Nigeria,Zambia,Undirected,1e-05
+France,Israel,Undirected,1e-05
+Belgium,Canada,Undirected,1e-05
+Nigeria,Philippines,Undirected,1e-05
+Nigeria,Tanzania,Undirected,1e-05
+United Arab Emirates,Nigeria,Undirected,1e-05
+Australia,Norway,Undirected,1e-05
+Kenya,Nigeria,Undirected,1e-05
+Nigeria,Uganda,Undirected,1e-05
+Mauritius,Nigeria,Undirected,1e-05
+Nigeria,Nepal,Undirected,1e-05
+Mexico,Spain,Undirected,1e-05
+Sri Lanka,Nigeria,Undirected,1e-05
+Cote d'Ivoire,Nigeria,Undirected,1e-05
+Hong Kong,Ukraine,Undirected,1e-05
+United Arab Emirates,Thailand,Undirected,1e-05
+Netherlands,Switzerland,Undirected,1e-05
+Nepal,Taiwan,Undirected,1e-05
+Netherlands,Philippines,Undirected,1e-05
+Italy,Saudi Arabia,Undirected,1e-05
+Serbia,United States,Undirected,1e-05
+Bulgaria,Germany,Undirected,1e-05
+Australia,Jamaica,Undirected,1e-05
+Cambodia,South Africa,Undirected,1e-05
